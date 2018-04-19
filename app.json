@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "travelapp",
+    "sdkVersion": "25.0.0",
+    "version": "Beta 1.0.0",
+    "icon": "src/img/logo.png",
+	"splash": {
+		"image": "src/img/splash.png",
+		"backgroundColor": "#4e59c5"
+	}
+  }
+}
